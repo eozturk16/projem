@@ -8,3 +8,4 @@ aksama dersim var
 =======
 aksama yatacagim
 >>>>>>> elif
+alla alla nasil gundu
