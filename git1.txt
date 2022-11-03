@@ -3,3 +3,8 @@ rayani krese biraktim.................
 seminer var
 data science semineride var
 14>00 de doktor randevum var
+<<<<<<< HEAD
+aksama dersim var
+=======
+aksama yatacagim
+>>>>>>> elif
